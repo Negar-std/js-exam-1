@@ -10,4 +10,3 @@ thirdButton?.addEventListener("click", thirdButtonHandler);
 
 fiveDigitNumberInput?.addEventListener("input", fiveDigitNumberInputHandler);
 
-console.log("Hello")
